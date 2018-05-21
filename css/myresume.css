@@ -3,7 +3,10 @@
 body {
 	font-family: "Noto Sans", "Noto Sans TC";
 }
-
+.bg-primary{
+	background-color:#FF88C2!important;
+	}
+	
 h1 {
 	font-family: inherit;
 	text-transform: none;
